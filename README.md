@@ -1,1 +1,1 @@
-# [Visit site](q2p.github.io)
+# [Visit site](http://q2p.github.io/)
